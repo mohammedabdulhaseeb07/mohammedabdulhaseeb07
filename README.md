@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedabdulhaseeb07&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedabdulhaseeb07" /> </p>
 
-- 🌱 I’m currently learning **Data Science, AI and Machine learning**
+- 🌱 I’m currently learning **Virtualization, Cloud and Networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
