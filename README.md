@@ -39,14 +39,14 @@ Virtualization • Cloud • Networking • MERN Stack • Cybersecurity
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql,mongodb,react,nodejs,express,html,css,linux,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,linux,docker,git,github" />
 </p>
 
 ---
 
 ### ☁️ Virtualization & Infrastructure
 
-* VMware vSphere
+* VMware vSphere 7/8
 * ESXi
 * vCenter
 * HA / DRS / vMotion
