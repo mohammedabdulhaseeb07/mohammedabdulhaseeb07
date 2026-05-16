@@ -1,74 +1,67 @@
-```md
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Haseeb</h1>
-<h3 align="center">Virtualization | Cloud | Networking | MERN Stack | Cybersecurity Enthusiast</h3>
+
+<h3 align="center">
+Virtualization • Cloud • Networking • MERN Stack • Cybersecurity
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=VMware+%7C+Cloud+Learner;MERN+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=VMware+and+Cloud+Learner;MERN+Stack+Developer;Cybersecurity+Enthusiast;Building+Labs+and+Projects" />
 </p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Computer Science Engineering Graduate
-- 🌱 Currently learning **VMware, Cloud, Networking & Infrastructure**
-- 💻 Passionate about **MERN Stack, Virtualization & Cybersecurity**
-- 🛠️ Building labs, projects and real-world setups
-- 📍 Hyderabad, India
+### 👨‍💻 About Me
+
+* 🎓 Computer Science Engineering Graduate
+* 🌱 Currently learning **VMware, Cloud & Networking**
+* 💻 Passionate about **Virtualization, MERN Stack & Cybersecurity**
+* 🛠️ Building real-world labs and projects
+* 📍 Hyderabad, India
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/mohammedabdulhaseeb07" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+<a href="https://linkedin.com/in/mohammedabdulhaseeb07" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://instagram.com/hxsxb__" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="50" />
+<a href="https://instagram.com/hxsxb__" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql,mongodb,react,nodejs,express,html,css,linux,docker,git,github" />
 </p>
-
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
-</p>
-
-### ☁️ Cloud & Virtualization
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker" />
-</p>
-
-- VMware vSphere
-- ESXi
-- vCenter
-- HA / DRS / vMotion
-- Virtual Networking
-
-### 🔐 Cybersecurity & Networking
-- Active Directory
-- Networking Fundamentals
-- Windows Server
-- System Administration
 
 ---
 
-## 📊 GitHub Stats
+### ☁️ Virtualization & Infrastructure
+
+* VMware vSphere
+* ESXi
+* vCenter
+* HA / DRS / vMotion
+* Virtual Networking
+* Windows Server
+* Active Directory
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedabdulhaseeb07&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=mohammedabdulhaseeb07&show_icons=true&theme=tokyonight" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdulhaseeb07&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdulhaseeb07&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -77,19 +70,16 @@
 
 ---
 
-## 🧠 Current Focus
+### 🚀 Current Focus
 
-- VMware Labs & Projects
-- Cloud Infrastructure
-- MERN Stack Development
-- Networking Concepts
-- Cybersecurity Basics
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy building labs, troubleshooting systems, and learning how infrastructure works behind the scenes.
+* VMware Labs & Projects
+* Cloud Infrastructure
+* Networking Concepts
+* MERN Stack Applications
+* Cybersecurity Learning
 
 ---
-```
+
+### ⚡ Fun Fact
+
+> I enjoy building infrastructure labs and learning how systems work behind the scenes.
